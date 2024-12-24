@@ -4,7 +4,7 @@
 The Car Price Prediction Project aims to predict car prices based on various features using different regression models. The project implements data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning to achieve the best predictive performance. 
 
 ## Key Objectives:
-### **Data Preprocessing: Clean and prepare the dataset by handling missing values, outliers, and encoding categorical variables.
+- Data Preprocessing: Clean and prepare the dataset by handling missing values, outliers, and encoding categorical variables.
 - Exploratory Data Analysis (EDA): Visualize the data to understand distributions and relationships among features and the target variable (car prices).
 - Modeling: Evaluate several regression algorithms to determine the best-performing model. The models used include:
    - Linear Regression
