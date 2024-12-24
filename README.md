@@ -15,7 +15,7 @@ The Car Price Prediction Project aims to predict car prices based on various fea
 - Feature Selection: Select the most significant features affecting car prices for model training using statistical techniques.
 - Model Evaluation: Assess model performance using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²).
 - Hyperparameter Tuning: Optimize the parameters of the best-performing model through Grid Search to enhance predictive accuracy.
-- 
+  
 ### Results:
 The project systematically evaluates the performance of different regression models and identifies the best approach for predicting car prices. Results are presented in a clear format, highlighting the performance of each model, and providing insights into which features are most influential.
 
